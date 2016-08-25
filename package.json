@@ -1,0 +1,26 @@
+{
+  "name": "node-express-4-mongo-4",
+  "version": "1.0.0",
+  "description": "A very bare-bones starter app, using only Express 4.x and Mongoose 4.x.",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.5.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulrays/node-express-4-mongo-4.git"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "starter"
+  ],
+  "author": {
+    "name": "Paul Rays",
+    "email": "paul.rays@gmail.com"
+  },
+  "license": "MIT"
+}
